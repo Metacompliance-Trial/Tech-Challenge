@@ -1,5 +1,8 @@
 # Training API
 
+> [!NOTE]
+> This codebase is used for MetaCompliance engineering interviews. It was written for that purpose only and does not represent MetaCompliance's products, code or engineering practices.
+
 A REST API for managing users and their compliance training. Admins assign training courses to users, and each user is notified through their preferred channel: email, SMS or Microsoft Teams.
 
 ## Prerequisites
